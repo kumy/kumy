@@ -40,10 +40,10 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4159 Commits
+                            4224 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,12 +210,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 143 commits)</small>
+                    <small class="h-details">(computed from last 145 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.5 characters per line of code written</li>
+                        <li>Has approximately 38.3 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -237,9 +237,9 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,119.5C36.304,121.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,115.833,200.217,108.5C206.522,101.167,212.826,85.5,219.13,75.5C225.435,65.5,231.739,48,238.043,48C244.348,48,250.652,125,256.957,125C263.261,125,269.565,82.222,275.87,70C282.174,57.778,288.478,50.648,294.783,42.5C301.087,34.352,307.391,20.5,313.696,20.5C320,20.5,326.304,20.5,332.609,20.5C338.913,20.5,345.217,15,351.522,15C357.826,15,364.13,56.25,370.435,70C376.739,83.75,383.043,103,389.348,103C395.652,103,401.957,103,408.261,103C414.565,103,420.87,100.25,427.174,97.5C433.478,94.75,439.783,81,446.087,81C452.391,81,458.696,103,465,114L465,125Z" class="ct-area"/>
-                                        <path d="M30,119.5C36.304,121.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,115.833,200.217,108.5C206.522,101.167,212.826,85.5,219.13,75.5C225.435,65.5,231.739,48,238.043,48C244.348,48,250.652,125,256.957,125C263.261,125,269.565,82.222,275.87,70C282.174,57.778,288.478,50.648,294.783,42.5C301.087,34.352,307.391,20.5,313.696,20.5C320,20.5,326.304,20.5,332.609,20.5C338.913,20.5,345.217,15,351.522,15C357.826,15,364.13,56.25,370.435,70C376.739,83.75,383.043,103,389.348,103C395.652,103,401.957,103,408.261,103C414.565,103,420.87,100.25,427.174,97.5C433.478,94.75,439.783,81,446.087,81C452.391,81,458.696,103,465,114" class="ct-line"/>
-                                        <line x1="30" y1="119.5" x2="30.01" y2="119.5" class="ct-point" ct:value="1"/>
+                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,115.833,200.217,108.5C206.522,101.167,212.826,85.5,219.13,75.5C225.435,65.5,231.739,48,238.043,48C244.348,48,250.652,125,256.957,125C263.261,125,269.565,82.222,275.87,70C282.174,57.778,288.478,50.648,294.783,42.5C301.087,34.352,307.391,20.5,313.696,20.5C320,20.5,326.304,20.5,332.609,20.5C338.913,20.5,345.217,15,351.522,15C357.826,15,364.13,56.25,370.435,70C376.739,83.75,383.043,103,389.348,103C395.652,103,401.957,103,408.261,103C414.565,103,420.87,100.759,427.174,97.5C433.478,94.241,439.783,53.5,446.087,53.5C452.391,53.5,458.696,101.167,465,125L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,115.833,200.217,108.5C206.522,101.167,212.826,85.5,219.13,75.5C225.435,65.5,231.739,48,238.043,48C244.348,48,250.652,125,256.957,125C263.261,125,269.565,82.222,275.87,70C282.174,57.778,288.478,50.648,294.783,42.5C301.087,34.352,307.391,20.5,313.696,20.5C320,20.5,326.304,20.5,332.609,20.5C338.913,20.5,345.217,15,351.522,15C357.826,15,364.13,56.25,370.435,70C376.739,83.75,383.043,103,389.348,103C395.652,103,401.957,103,408.261,103C414.565,103,420.87,100.759,427.174,97.5C433.478,94.241,439.783,53.5,446.087,53.5C452.391,53.5,458.696,101.167,465,125" class="ct-line"/>
+                                        <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="86.73913043478261" y1="125" x2="86.74913043478261" y2="125" class="ct-point" ct:value="0"/>
@@ -261,9 +261,9 @@
                                         <line x1="389.34782608695656" y1="103" x2="389.35782608695655" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="408.26086956521743" y1="103" x2="408.2708695652174" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="427.1739130434783" y1="97.5" x2="427.1839130434783" y2="97.5" class="ct-point" ct:value="5"/>
-                                        <line x1="446.0869565217392" y1="81" x2="446.0969565217392" y2="81" class="ct-point" ct:value="8"/>
-                                        <line x1="465.00000000000006" y1="114" x2="465.01000000000005" y2="114" class="ct-point" ct:value="2"/>
-                                    <text x="30" y="114.5" class="ct-post">1</text><text x="200.21739130434784" y="103.5" class="ct-post">3</text><text x="219.13043478260872" y="70.5" class="ct-post">9</text><text x="238.0434782608696" y="43" class="ct-post">14</text><text x="275.8695652173913" y="65" class="ct-post">10</text><text x="294.7826086956522" y="37.5" class="ct-post">15</text><text x="313.69565217391306" y="15.5" class="ct-post">19</text><text x="332.60869565217394" y="15.5" class="ct-post">19</text><text x="351.5217391304348" y="10" class="ct-post">20</text><text x="370.4347826086957" y="65" class="ct-post">10</text><text x="389.34782608695656" y="98" class="ct-post">4</text><text x="408.26086956521743" y="98" class="ct-post">4</text><text x="427.1739130434783" y="92.5" class="ct-post">5</text><text x="446.0869565217392" y="76" class="ct-post">8</text><text x="465.00000000000006" y="109" class="ct-post">2</text></g>
+                                        <line x1="446.0869565217392" y1="53.5" x2="446.0969565217392" y2="53.5" class="ct-point" ct:value="13"/>
+                                        <line x1="465.00000000000006" y1="125" x2="465.01000000000005" y2="125" class="ct-point" ct:value="0"/>
+                                    <text x="200.21739130434784" y="103.5" class="ct-post">3</text><text x="219.13043478260872" y="70.5" class="ct-post">9</text><text x="238.0434782608696" y="43" class="ct-post">14</text><text x="275.8695652173913" y="65" class="ct-post">10</text><text x="294.7826086956522" y="37.5" class="ct-post">15</text><text x="313.69565217391306" y="15.5" class="ct-post">19</text><text x="332.60869565217394" y="15.5" class="ct-post">19</text><text x="351.5217391304348" y="10" class="ct-post">20</text><text x="370.4347826086957" y="65" class="ct-post">10</text><text x="389.34782608695656" y="98" class="ct-post">4</text><text x="408.26086956521743" y="98" class="ct-post">4</text><text x="427.1739130434783" y="92.5" class="ct-post">5</text><text x="446.0869565217392" y="48.5" class="ct-post">13</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -312,16 +312,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,108.5,49,75.5,58.5,75.5C68,75.5,77.5,78.759,87,82.833C96.5,86.907,106,119.5,115.5,119.5C125,119.5,134.5,96.802,144,95.667C153.5,94.532,163,95.026,172.5,93.833C182,92.641,191.5,44.944,201,20.5L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,108.5,49,75.5,58.5,75.5C68,75.5,77.5,78.759,87,82.833C96.5,86.907,106,119.5,115.5,119.5C125,119.5,134.5,96.802,144,95.667C153.5,94.532,163,95.026,172.5,93.833C182,92.641,191.5,44.944,201,20.5" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,105.444,49,66.333,58.5,66.333C68,66.333,77.5,75.247,87,82.833C96.5,90.42,106,119.5,115.5,119.5C125,119.5,134.5,101.402,144,99.333C153.5,97.265,163,97.997,172.5,95.667C182,93.336,191.5,45.556,201,20.5L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,105.444,49,66.333,58.5,66.333C68,66.333,77.5,75.247,87,82.833C96.5,90.42,106,119.5,115.5,119.5C125,119.5,134.5,101.402,144,99.333C153.5,97.265,163,97.997,172.5,95.667C182,93.336,191.5,45.556,201,20.5" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="58.5" y1="75.5" x2="58.51" y2="75.5" class="ct-point" ct:value="27"/>
+                                            <line x1="58.5" y1="66.33333333333334" x2="58.51" y2="66.33333333333334" class="ct-point" ct:value="32"/>
                                             <line x1="87" y1="82.83333333333334" x2="87.01" y2="82.83333333333334" class="ct-point" ct:value="23"/>
                                             <line x1="115.5" y1="119.5" x2="115.51" y2="119.5" class="ct-point" ct:value="3"/>
-                                            <line x1="144" y1="95.66666666666667" x2="144.01" y2="95.66666666666667" class="ct-point" ct:value="16"/>
-                                            <line x1="172.5" y1="93.83333333333333" x2="172.51" y2="93.83333333333333" class="ct-point" ct:value="17"/>
+                                            <line x1="144" y1="99.33333333333333" x2="144.01" y2="99.33333333333333" class="ct-point" ct:value="14"/>
+                                            <line x1="172.5" y1="95.66666666666667" x2="172.51" y2="95.66666666666667" class="ct-point" ct:value="16"/>
                                             <line x1="201" y1="20.5" x2="201.01" y2="20.5" class="ct-point" ct:value="57"/>
-                                        <text x="58.5" y="70.5" class="ct-post">27</text><text x="87" y="77.83333333333334" class="ct-post">23</text><text x="115.5" y="114.5" class="ct-post">3</text><text x="144" y="90.66666666666667" class="ct-post">16</text><text x="172.5" y="88.83333333333333" class="ct-post">17</text><text x="201" y="15.5" class="ct-post">57</text></g>
+                                        <text x="58.5" y="61.33333333333334" class="ct-post">32</text><text x="87" y="77.83333333333334" class="ct-post">23</text><text x="115.5" y="114.5" class="ct-post">3</text><text x="144" y="94.33333333333333" class="ct-post">14</text><text x="172.5" y="90.66666666666667" class="ct-post">16</text><text x="201" y="15.5" class="ct-post">57</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -344,46 +344,46 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M63.123,19.908A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.3774466090046585"/>
+                                        <path d="M132.809,9.222A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.02360302449978264"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M63.407,19.697A75,75,0,0,0,62.913,20.065L108,80Z" class="ct-slice-pie" ct:value="0.00031635051974579064"/>
+                                        <path d="M133.221,9.368A75,75,0,0,0,132.561,9.136L108,80Z" class="ct-slice-pie" ct:value="0.00040824283568225865"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M65.974,17.881A75,75,0,0,0,63.197,19.853L108,80Z" class="ct-slice-pie" ct:value="0.002804820154097666"/>
+                                        <path d="M137.06,10.859A75,75,0,0,0,132.974,9.28L108,80Z" class="ct-slice-pie" ct:value="0.0038449469524088516"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M66.057,17.824A75,75,0,0,0,65.757,18.028L108,80Z" class="ct-slice-pie" ct:value="0.00008972391572017765"/>
+                                        <path d="M140.873,12.588A75,75,0,0,0,136.818,10.758L108,80Z" class="ct-slice-pie" ct:value="0.003908539426812881"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M69.004,15.935A75,75,0,0,0,65.841,17.971L108,80Z" class="ct-slice-pie" ct:value="0.003122855630007216"/>
+                                        <path d="M152.634,19.727A75,75,0,0,0,140.637,12.474L108,80Z" class="ct-slice-pie" ct:value="0.012861525823235857"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M92.356,6.65A75,75,0,0,0,68.781,16.072L108,80Z" class="ct-slice-pie" ct:value="0.02252323028001023"/>
+                                        <path d="M152.72,19.791A75,75,0,0,0,152.423,19.572L108,80Z" class="ct-slice-pie" ct:value="0.00010049695954997377"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M104.222,5.095A75,75,0,0,0,92.1,6.705L108,80Z" class="ct-slice-pie" ct:value="0.010686834468642756"/>
+                                        <path d="M104.426,5.085A75,75,0,1,0,152.51,19.636L108,80Z" class="ct-slice-pie" ct:value="0.3918313902878654"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M107.398,5.002A75,75,0,0,0,103.961,5.109L108,80Z" class="ct-slice-pie" ct:value="0.002834517506483922"/>
+                                        <path d="M107.431,5.002A75,75,0,0,0,104.165,5.098L108,80Z" class="ct-slice-pie" ct:value="0.002805991870588272"/>
                                     </g>
                                     <g class="ct-series ct-series-i">
-                                        <path d="M107.95,5A75,75,0,0,0,107.136,5.005L108,80Z" class="ct-slice-pie" ct:value="0.0004926390583790975"/>
+                                        <path d="M107.953,5A75,75,0,0,0,107.169,5.005L108,80Z" class="ct-slice-pie" ct:value="0.0004876813037082753"/>
                                     </g>
                                     <g class="ct-series ct-series-j">
-                                        <path d="M108,5A75,75,0,0,0,107.689,5.001L108,80Z" class="ct-slice-pie" ct:value="0.000044230099298679124"/>
+                                        <path d="M108,5A75,75,0,0,0,107.691,5.001L108,80Z" class="ct-slice-pie" ct:value="0.00004378498237654459"/>
                                     </g>
                                     <g>
-                                        <text dx="119.82218067352086" dy="115.58772322195716" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="85.63245934523835" dy="49.9011108999421" text-anchor="middle" class="ct-label">Makefile</text>
-                                        <text dx="86.3405735602285" dy="49.387596528529045" text-anchor="middle" class="ct-label">Smarty</text>
-                                        <text dx="87.00781257184647" dy="48.92624794169084" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="87.75985184103376" dy="48.431243253762815" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="94.14420448919057" dy="45.15366689646336" text-anchor="middle" class="ct-label">Hack</text>
-                                        <text dx="103.12901685186833" dy="42.81769879135212" text-anchor="middle" class="ct-label">PHP</text>
-                                        <text dx="106.90483610933612" dy="42.515995197249985" text-anchor="middle" class="ct-label">PLpgSQL</text>
-                                        <text dx="107.83714284587923" dy="42.50035363436941" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.98760416482503" dy="42.50000204875645" text-anchor="middle" class="ct-label">XQuery</text>
+                                        <text dx="114.29130171659239" dy="43.03150635053138" text-anchor="middle" class="ct-label">Hack</text>
+                                        <text dx="120.50738912036043" dy="44.64727425796011" text-anchor="middle" class="ct-label">Makefile</text>
+                                        <text dx="121.57529041150536" dy="45.043434232704" text-anchor="middle" class="ct-label">Smarty</text>
+                                        <text dx="123.48914109487156" dy="45.84833081468548" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="127.45863678699556" dy="47.94362069116689" text-anchor="middle" class="ct-label">PHP</text>
+                                        <text dx="130.33856413903104" dy="49.8795990696273" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="97.07611839163013" dy="115.87365064509491" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="106.96398394820156" dy="42.514313788588375" text-anchor="middle" class="ct-label">PLpgSQL</text>
+                                        <text dx="107.84594072097181" dy="42.50031645815467" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.98827381693539" dy="42.500001833378306" text-anchor="middle" class="ct-label">XQuery</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -414,7 +414,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 4 days
+                            Best streak 5 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -432,7 +432,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.31
+                            Average per day at ~1.32
                         </div>
                     </section>
                 </div>
@@ -2245,14 +2245,14 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3 0,2 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2 1.7,3 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3 0,2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2 1.7,3 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.6)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.4 0,3.4000000000000004 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4000000000000004 1.7,4.4 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.4 0,3.4000000000000004 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4000000000000004 1.7,4.4 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.4)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2260,9 +2260,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.8)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
                         </g>
                         <g transform="translate(83.3, 49)">
@@ -2282,9 +2282,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.800000000000001)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2297,16 +2297,16 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
                             </g>
                             <g transform="translate(-10.2, 9)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
                         </g>
                         <g transform="translate(85, 50)">
                             <g transform="translate(0, 4)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2329,9 +2329,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.6)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4 0,2.4 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4 1.7,3.4 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4 0,2.4 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4 1.7,3.4 z"/>
                             </g>
                             <g transform="translate(-10.2, 6)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2346,29 +2346,29 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.800000000000001)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 5.2)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.8 0,3.8 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8 1.7,4.8 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.6)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4 0,1.4 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.8)">
+                            <g transform="translate(-3.4, 5)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 8.4)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 9.2)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8 0,1.8 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8 1.7,2.8 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 10.8)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -3036,7 +3036,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2023, 22:14:37 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 2 Jan 2023, 23:15:59 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
