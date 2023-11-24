@@ -486,36 +486,37 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-14.279,-78.715L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-56.54,-56.597L0,0Z">
                                         <title>HTML
-53.47</title>
+43.72</title>
                                     </path>
-                                    <path fill="#878787" d="M-13.294,-78.888A80,80,0,0,1,-12.934,-78.947L0,0Z">
+                                    <path fill="#878787" d="M-55.828,-57.299A80,80,0,0,1,-55.467,-57.649L0,0Z">
                                         <title>Hack
-0.04</title>
+0.05</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-11.946,-79.103A80,80,0,0,1,-9.687,-79.411L0,0Z">
+                                    <path fill="#f0c040" d="M-54.743,-58.337A80,80,0,0,1,-53.559,-59.426L0,0Z">
                                         <title>Smarty
-0.25</title>
+0.16</title>
                                     </path>
-                                    <path fill="#b07219" d="M-8.693,-79.526A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#b07219" d="M-52.812,-60.091A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Java
-0.90</title>
+5.69</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(3.4597187246922676,39.85009844838547)">
+                                    <text transform="translate(15.182534611198777,37.006629713873586)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">53.47</tspan>
+                                        <tspan x="0" y="1.1em">43.72</tspan>
                                     </text>
-                                    <text transform="translate(-6.557136848588395,-39.45888944647181)">
+                                    <text transform="translate(-27.824098184691728,-28.737076403291873)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-5.408838862006614,-39.632618663984935)">
+                                    <text transform="translate(-27.076744762869602,-29.44231466862641)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(-2.301369050702751,-39.93374137859446)">
+                                    <text transform="translate(-14.226931602665662,-37.38441409428631)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
+                                        <tspan x="0" y="1.1em">5.69</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -3066,7 +3067,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.38m out of 64.4m repositories</span>
+                                    <span class="gh">ranked 3.38m out of 60.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3104,7 +3105,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.12m out of 64.4m repositories</span>
+                                    <span class="gh">ranked 2.12m out of 60.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3186,7 +3187,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Nov 2023, 20:12:34 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2023, 21:16:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
