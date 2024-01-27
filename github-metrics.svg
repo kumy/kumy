@@ -474,58 +474,67 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-50.845,-61.764L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-67.641,-42.717L0,0Z">
                                         <title>HTML
-35.60</title>
+34.60</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-50.069,-62.395A80,80,0,0,1,-39.262,-69.703L0,0Z">
+                                    <path fill="#f0c040" d="M-67.102,-43.559A80,80,0,0,1,-51.79,-60.974L0,0Z">
                                         <title>Smarty
-1.04</title>
+1.91</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-38.388,-70.188A80,80,0,0,1,-27.887,-74.982L0,0Z">
+                                    <path fill="#4F5D95" d="M-51.024,-61.616A80,80,0,0,1,-34.211,-72.316L0,0Z">
                                         <title>PHP
-0.92</title>
+1.64</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-26.948,-75.325A80,80,0,0,1,-26.237,-75.575L0,0Z">
+                                    <path fill="#f1e05a" d="M-33.304,-72.738A80,80,0,0,1,-31.969,-73.335L0,0Z">
                                         <title>JavaScript
-0.06</title>
-                                    </path>
-                                    <path fill="#878787" d="M-25.29,-75.897A80,80,0,0,1,-23.856,-76.36L0,0Z">
-                                        <title>Hack
 0.12</title>
                                     </path>
-                                    <path fill="#427819" d="M-22.9,-76.652A80,80,0,0,1,-21.936,-76.934L0,0Z">
-                                        <title>Makefile
-0.08</title>
+                                    <path fill="#878787" d="M-31.05,-73.728A80,80,0,0,1,-28.449,-74.771L0,0Z">
+                                        <title>Hack
+0.23</title>
                                     </path>
-                                    <path fill="#89e051" d="M-20.972,-77.202A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#427819" d="M-27.512,-75.12A80,80,0,0,1,-26.71,-75.409L0,0Z">
+                                        <title>Makefile
+0.07</title>
+                                    </path>
+                                    <path fill="#89e051" d="M-25.765,-75.737A80,80,0,0,1,-2.231,-79.969L0,0Z">
                                         <title>Shell
-1.65</title>
+1.97</title>
+                                    </path>
+                                    <path fill="#563d7c" d="M-1.231,-79.991A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <title>CSS
+0.06</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(13.38626582173426,37.69360539070081)">
+                                    <text transform="translate(19.199329813427536,35.091106205351124)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">35.60</tspan>
+                                        <tspan x="0" y="1.1em">34.60</tspan>
                                     </text>
-                                    <text transform="translate(-22.407304760525758,-33.13476563020961)">
+                                    <text transform="translate(-30.040107541928815,-26.411965827430404)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
+                                        <tspan x="0" y="1.1em">1.91</tspan>
                                     </text>
-                                    <text transform="translate(-16.612040216471406,-36.387362089691756)">
+                                    <text transform="translate(-21.47590051538828,-33.74589896643955)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
+                                        <tspan x="0" y="1.1em">1.64</tspan>
                                     </text>
-                                    <text transform="translate(-13.296386658656026,-37.725403931880095)">
+                                    <text transform="translate(-16.31902039278286,-36.519714859510295)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-12.28725943983698,-38.066038084598944)">
+                                    <text transform="translate(-14.877072428135179,-37.13048230185032)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-11.20916156765996,-38.39732669014986)">
+                                    <text transform="translate(-13.555704070319653,-37.63300263276795)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-5.413413651105797,-39.631994053315324)">
+                                    <text transform="translate(-7.0784648438927364,-39.36871010655257)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                        <tspan x="0" y="1.1em">1.65</tspan>
+                                        <tspan x="0" y="1.1em">1.97</tspan>
+                                    </text>
+                                    <text transform="translate(-0.43274580343729974,-39.997659069870664)">
+                                        <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -3081,7 +3090,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 153m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 159m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3119,7 +3128,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.17m out of 153m repositories</span>
+                                    <span class="gh">ranked 2.17m out of 159m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3201,7 +3210,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2024, 05:17:21 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2024, 06:14:00 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
