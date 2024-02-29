@@ -482,49 +482,49 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f0c040" d="M0.5,-79.998A80,80,0,0,1,6.869,-79.705L0,0Z">
+                                    <path fill="#f0c040" d="M0.5,-79.998A80,80,0,0,1,6.84,-79.707L0,0Z">
                                         <title>Smarty
 0.57</title>
                                     </path>
-                                    <path fill="#878787" d="M7.865,-79.612A80,80,0,0,1,14.84,-78.612L0,0Z">
+                                    <path fill="#878787" d="M7.836,-79.615A80,80,0,0,1,14.78,-78.623L0,0Z">
                                         <title>Hack
 0.63</title>
                                     </path>
-                                    <path fill="#e34c26" d="M15.821,-78.42A80,80,0,1,1,-21.686,-77.005L0,0Z">
+                                    <path fill="#e34c26" d="M15.762,-78.432A80,80,0,1,1,-21.714,-76.997L0,0Z">
                                         <title>HTML
-41.54</title>
+41.73</title>
                                     </path>
-                                    <path fill="#00c0b5" d="M-20.722,-77.27A80,80,0,0,1,-5.628,-79.802L0,0Z">
+                                    <path fill="#00c0b5" d="M-20.75,-77.262A80,80,0,0,1,-5.614,-79.803L0,0Z">
                                         <title>RobotFramework
-1.37</title>
+1.38</title>
                                     </path>
-                                    <path fill="#427819" d="M-4.63,-79.866A80,80,0,0,1,-2.171,-79.971L0,0Z">
+                                    <path fill="#427819" d="M-4.616,-79.867A80,80,0,0,1,-2.057,-79.974L0,0Z">
                                         <title>Makefile
-0.22</title>
+0.23</title>
                                     </path>
-                                    <path fill="#384d54" d="M-1.171,-79.991A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#384d54" d="M-1.057,-79.993A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Dockerfile
-0.06</title>
+0.05</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.8436991600758907,-39.957487075730064)">
+                                    <text transform="translate(1.8365555643863058,-39.95781605216834)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(5.68160410402106,-39.594436159707726)">
+                                    <text transform="translate(5.6596221265105395,-39.597584236732324)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(1.5083417421196124,39.971551198183185)">
+                                    <text transform="translate(1.5305257011068953,39.97070791314874)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">41.54</tspan>
+                                        <tspan x="0" y="1.1em">41.73</tspan>
                                     </text>
-                                    <text transform="translate(-6.617852769703473,-39.44875187782914)">
+                                    <text transform="translate(-6.62143472846079,-39.448150807569334)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
                                     </text>
-                                    <text transform="translate(-1.7005047044299229,-39.963837200026376)">
+                                    <text transform="translate(-1.6684219431264111,-39.965189455571135)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-0.41781899259935557,-39.99781778159183)">
+                                    <text transform="translate(-0.3892220546449268,-39.99810628257515)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
                                 </g>
@@ -3071,7 +3071,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.44m out of 77.5m repositories</span>
+                                    <span class="gh">ranked 3.44m out of 89.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3109,7 +3109,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.20m out of 77.5m repositories</span>
+                                    <span class="gh">ranked 2.20m out of 89.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3191,7 +3191,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Feb 2024, 03:20:05 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 04:17:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
