@@ -474,33 +474,33 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-60.803,-51.99L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-62.287,-50.203L0,0Z">
                                         <title>HTML
-82.65</title>
+82.05</title>
                                     </path>
-                                    <path fill="#878787" d="M-60.149,-52.746A80,80,0,0,1,-54.262,-58.784L0,0Z">
+                                    <path fill="#878787" d="M-61.654,-50.978A80,80,0,0,1,-55.746,-57.379L0,0Z">
                                         <title>Hack
-1.61</title>
+1.66</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-53.523,-59.458A80,80,0,0,1,-52.186,-60.635L0,0Z">
+                                    <path fill="#f0c040" d="M-55.025,-58.071A80,80,0,0,1,-53.677,-59.32L0,0Z">
                                         <title>Smarty
-0.34</title>
+0.35</title>
                                     </path>
-                                    <path fill="#00c0b5" d="M-51.424,-61.283A80,80,0,0,1,-35.637,-71.624L0,0Z">
+                                    <path fill="#00c0b5" d="M-52.931,-59.986A80,80,0,0,1,-36.769,-71.049L0,0Z">
                                         <title>RobotFramework
-3.61</title>
+3.74</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-34.739,-72.064A80,80,0,0,1,-34.172,-72.335L0,0Z">
+                                    <path fill="#f1e05a" d="M-35.878,-71.503A80,80,0,0,1,-35.267,-71.807L0,0Z">
                                         <title>JavaScript
-0.12</title>
+0.13</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-33.265,-72.756A80,80,0,0,1,-19.184,-77.666L0,0Z">
+                                    <path fill="#4F5D95" d="M-34.367,-72.242A80,80,0,0,1,-19.826,-77.504L0,0Z">
                                         <title>PHP
-2.85</title>
+2.95</title>
                                     </path>
-                                    <path fill="#336790" d="M-18.212,-77.9A80,80,0,0,1,-1.5,-79.986L0,0Z">
+                                    <path fill="#336790" d="M-18.856,-77.746A80,80,0,0,1,-1.5,-79.986L0,0Z">
                                         <title>PLpgSQL
-3.22</title>
+3.34</title>
                                     </path>
                                     <path fill="#384d54" d="M-0.5,-79.998L0,0Z">
                                         <title>Dockerfile
@@ -508,29 +508,30 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(16.622516087484705,36.382577683849064)">
+                                    <text transform="translate(17.14889014330598,36.13745379592789)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">82.65</tspan>
+                                        <tspan x="0" y="1.1em">82.05</tspan>
                                     </text>
-                                    <text transform="translate(-28.642520897683525,-27.921425404620063)">
+                                    <text transform="translate(-29.393776064432252,-27.1294291991927)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-26.428977168278095,-30.025142228449727)">
+                                    <text transform="translate(-27.177159529123962,-29.34965076331483)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(-21.918322734536993,-33.46023204499154)">
+                                    <text transform="translate(-22.59497669979399,-33.007075422335845)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
+                                        <tspan x="0" y="1.1em">3.74</tspan>
                                     </text>
-                                    <text transform="translate(-17.227847837532273,-36.099878931747604)">
+                                    <text transform="translate(-17.786475011687315,-35.8279403072326)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-13.169531625498081,-37.76987472530199)">
+                                    <text transform="translate(-13.611937655108333,-37.61269936169756)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
-                                    <text transform="translate(-4.955425930688106,-39.691860045171275)">
+                                    <text transform="translate(-5.119666105332939,-39.67100980527097)">
                                         <tspan x="0" y="0em" font-weight="bold">PLpgSQL</tspan>
                                     </text>
-                                    <text transform="translate(-0.24999837239900538,-39.99921875254313)">
+                                    <text transform="translate(-0.24999837239886327,-39.99921875254313)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
                                 </g>
@@ -3078,7 +3079,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.51m out of 209m repositories</span>
+                                    <span class="gh">ranked 3.51m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3116,7 +3117,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.96m out of 209m repositories</span>
+                                    <span class="gh">ranked 1.96m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -3198,7 +3199,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2024, 10:22:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 11:19:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
