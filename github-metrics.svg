@@ -482,13 +482,13 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,0.65,-79.997L0,0Z">
+                                    <path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,0.8,-79.996L0,0Z">
                                         <title>Dockerfile
-0.03</title>
+0.06</title>
                                     </path>
-                                    <path fill="#e34c26" d="M1.65,-79.983A80,80,0,1,1,-2.099,-79.972L0,0Z">
+                                    <path fill="#e34c26" d="M1.8,-79.98A80,80,0,1,1,-2.099,-79.972L0,0Z">
                                         <title>HTML
-99.85</title>
+99.81</title>
                                     </path>
                                     <path fill="#555555" d="M-1.1,-79.992A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>C
@@ -496,14 +496,14 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.2874716371356196,-39.998966987384094)">
+                                    <text transform="translate(0.3249521448849345,-39.99868005451598)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(0.11242218752082689,39.99984201533493)">
+                                    <text transform="translate(0.07495567539055638,39.999929770522435)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">99.85</tspan>
+                                        <tspan x="0" y="1.1em">99.81</tspan>
                                     </text>
-                                    <text transform="translate(-0.39988978591524954,-39.998001052041595)">
+                                    <text transform="translate(-0.3999047763098871,-39.998000902168656)">
                                         <tspan x="0" y="0em" font-weight="bold">C</tspan>
                                     </text>
                                 </g>
@@ -3050,7 +3050,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.53m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.53m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3088,7 +3088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.99m out of 213m repositories</span>
+                                    <span class="gh">ranked 1.99m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -3170,7 +3170,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jul 2024, 05:21:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 06:20:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
