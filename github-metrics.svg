@@ -478,77 +478,77 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-34.772,-72.048L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-31.785,-73.414L0,0Z">
                                         <title>HTML
-89.99</title>
+91.92</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-33.869,-72.477A80,80,0,0,1,-32.833,-72.952L0,0Z">
+                                    <path fill="#f0c040" d="M-30.865,-73.806A80,80,0,0,1,-29.873,-74.213L0,0Z">
                                         <title>Smarty
-0.22</title>
+0.21</title>
                                     </path>
-                                    <path fill="#878787" d="M-31.918,-73.357A80,80,0,0,1,-29.96,-74.178L0,0Z">
+                                    <path fill="#878787" d="M-28.943,-74.581A80,80,0,0,1,-27.173,-75.244L0,0Z">
                                         <title>Hack
-0.41</title>
+0.37</title>
                                     </path>
-                                    <path fill="#89e051" d="M-29.03,-74.547A80,80,0,0,1,-28.885,-74.603L0,0Z">
+                                    <path fill="#89e051" d="M-26.231,-75.577A80,80,0,0,1,-26.086,-75.628L0,0Z">
                                         <title>Shell
 0.03</title>
                                     </path>
-                                    <path fill="#00c0b5" d="M-27.95,-74.958A80,80,0,0,1,-26.489,-75.487L0,0Z">
+                                    <path fill="#00c0b5" d="M-25.139,-75.948A80,80,0,0,1,-23.631,-76.43L0,0Z">
                                         <title>RobotFramework
-0.30</title>
+0.31</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-25.543,-75.813A80,80,0,0,1,-23.967,-76.325L0,0Z">
+                                    <path fill="#4F5D95" d="M-22.674,-76.72A80,80,0,0,1,-21.151,-77.153L0,0Z">
                                         <title>PHP
-0.32</title>
+0.31</title>
                                     </path>
-                                    <path fill="#336790" d="M-23.011,-76.619A80,80,0,0,1,-9.744,-79.404L0,0Z">
+                                    <path fill="#336790" d="M-20.185,-77.412A80,80,0,0,1,-7.981,-79.601L0,0Z">
                                         <title>PLpgSQL
-2.62</title>
+2.43</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-8.751,-79.52A80,80,0,0,1,-8.596,-79.537L0,0Z">
+                                    <path fill="#c6538c" d="M-6.986,-79.694A80,80,0,0,1,-6.833,-79.708L0,0Z">
                                         <title>SCSS
 0.03</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-7.601,-79.638A80,80,0,0,1,-1.5,-79.986L0,0Z">
+                                    <path fill="#563d7c" d="M-5.836,-79.787A80,80,0,0,1,-1.551,-79.985L0,0Z">
                                         <title>CSS
-1.18</title>
+0.84</title>
                                     </path>
-                                    <path fill="#384d54" d="M-0.5,-79.998L0,0Z">
+                                    <path fill="#384d54" d="M-0.551,-79.998A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Dockerfile
-0.00</title>
+0.01</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(8.795479331185721,39.02101412488769)">
+                                    <text transform="translate(7.992674492502864,39.193330484368055)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">89.99</tspan>
+                                        <tspan x="0" y="1.1em">91.92</tspan>
                                     </text>
-                                    <text transform="translate(-16.675712015440883,-36.358226425089555)">
+                                    <text transform="translate(-15.18491513993876,-37.00565297617188)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(-15.47080006921544,-36.88704847528958)">
+                                    <text transform="translate(-14.030098275369214,-37.45872852064632)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-14.478801096050821,-37.287589340436014)">
+                                    <text transform="translate(-13.079199144451117,-37.80125063724465)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-13.610491440876256,-37.61322271140608)">
+                                    <text transform="translate(-12.192936090996136,-38.09635559316513)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
                                     </text>
-                                    <text transform="translate(-12.378274793748439,-38.03653918445331)">
+                                    <text transform="translate(-10.956625121360695,-38.470149024275536)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
-                                    <text transform="translate(-8.218340713318925,-39.14663300872509)">
+                                    <text transform="translate(-7.062724543882331,-39.371536952692644)">
                                         <tspan x="0" y="0em" font-weight="bold">PLpgSQL</tspan>
                                     </text>
-                                    <text transform="translate(-4.336740019549197,-39.76421363491098)">
+                                    <text transform="translate(-3.454619029480091,-39.850540866607496)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-2.2769827082288163,-39.93513928542665)">
+                                    <text transform="translate(-1.8474224787179159,-39.95731510230796)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-0.24999837239900538,-39.99921875254313)">
+                                    <text transform="translate(-0.2627664810099007,-39.99913691289423)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
                                 </g>
@@ -2624,7 +2624,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.52772073921969 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.61259411362082 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2685,7 +2685,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 71.6k out of 140m users</span>
+                                    <span class="gh">ranked 71.6k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 169 public repositories</div>
                             </div>
@@ -2951,7 +2951,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 601k out of 140m users</span>
+                                    <span class="gh">ranked 601k out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -3096,7 +3096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.55m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.55m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3134,7 +3134,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.01m out of 215m repositories</span>
+                                    <span class="gh">ranked 2.01m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -3216,7 +3216,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2024, 17:19:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2024, 18:22:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
