@@ -482,42 +482,42 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-5.294,-79.825L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-5.195,-79.831L0,0Z">
                                         <title>HTML
-99.60</title>
+99.64</title>
                                     </path>
-                                    <path fill="#00c0b5" d="M-4.296,-79.885L0,0Z">
+                                    <path fill="#00c0b5" d="M-4.196,-79.89L0,0Z">
                                         <title>RobotFramework
 0.00</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-3.297,-79.932L0,0Z">
+                                    <path fill="#f1e05a" d="M-3.197,-79.936L0,0Z">
                                         <title>JavaScript
 0.00</title>
                                     </path>
-                                    <path fill="#427819" d="M-2.298,-79.967A80,80,0,0,1,-2.148,-79.971L0,0Z">
+                                    <path fill="#427819" d="M-2.198,-79.97A80,80,0,0,1,-2.048,-79.974L0,0Z">
                                         <title>Makefile
 0.03</title>
                                     </path>
-                                    <path fill="#878787" d="M-1.148,-79.992A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#878787" d="M-1.049,-79.993A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Hack
-0.13</title>
+0.11</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.1993610424492709,39.98201512042452)">
+                                    <text transform="translate(1.1743944406048894,39.982756254388924)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">99.60</tspan>
+                                        <tspan x="0" y="1.1em">99.64</tspan>
                                     </text>
-                                    <text transform="translate(-2.1480478834631307,-39.942281986515866)">
+                                    <text transform="translate(-2.098163103917888,-39.944933490861615)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
                                     </text>
-                                    <text transform="translate(-1.64861454651918,-39.96601143568127)">
+                                    <text transform="translate(-1.598700521230456,-39.96803918937502)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-1.111524651280028,-39.984553429413175)">
+                                    <text transform="translate(-1.0615953847597832,-39.98591020896057)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-0.4121196310582495,-39.99787691127739)">
+                                    <text transform="translate(-0.38715077688863475,-39.998126384569)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
                                 </g>
@@ -2681,7 +2681,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 72.4k out of 143m users</span>
+                                    <span class="gh">ranked 72.4k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 169 public repositories</div>
                             </div>
@@ -2947,7 +2947,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 561k out of 143m users</span>
+                                    <span class="gh">ranked 561k out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -3092,7 +3092,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.57m out of 217m repositories</span>
+                                    <span class="gh">ranked 3.57m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3130,7 +3130,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.03m out of 217m repositories</span>
+                                    <span class="gh">ranked 2.03m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -3212,7 +3212,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2024, 04:38:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2024, 05:22:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
