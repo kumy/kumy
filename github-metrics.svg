@@ -488,7 +488,7 @@
                                     </path>
                                     <path fill="#e34c26" d="M1.55,-79.985A80,80,0,1,1,-5.194,-79.831L0,0Z">
                                         <title>HTML
-99.49</title>
+99.51</title>
                                     </path>
                                     <path fill="#878787" d="M-4.196,-79.89A80,80,0,0,1,-3.648,-79.917L0,0Z">
                                         <title>Hack
@@ -502,29 +502,29 @@
                                         <title>JavaScript
 0.00</title>
                                     </path>
-                                    <path fill="#427819" d="M-0.65,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#427819" d="M-0.649,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Makefile
 0.03</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.2624593477296024,-39.999138929366836)">
+                                    <text transform="translate(0.2624568470346802,-39.99913894577538)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(0.9119169910120696,39.98960374149141)">
+                                    <text transform="translate(0.9118844897274556,39.989604482632664)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">99.49</tspan>
+                                        <tspan x="0" y="1.1em">99.51</tspan>
                                     </text>
-                                    <text transform="translate(-1.9610544836032657,-39.951899395552395)">
+                                    <text transform="translate(-1.9610120219955174,-39.951901479774264)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-1.3245252143304018,-39.978064397324225)">
+                                    <text transform="translate(-1.3245102180661126,-39.97806489416713)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
                                     </text>
-                                    <text transform="translate(-0.8247089457700462,-39.99149728573271)">
+                                    <text transform="translate(-0.8246939444668793,-39.99149759508838)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-0.28738122076525374,-39.998967637102226)">
+                                    <text transform="translate(-0.2873737187125838,-39.99896769100164)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
                                 </g>
@@ -2665,7 +2665,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 71.8k out of 142m users</span>
+                                    <span class="gh">ranked 71.8k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 170 public repositories</div>
                             </div>
@@ -2931,7 +2931,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 563k out of 142m users</span>
+                                    <span class="gh">ranked 563k out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -3076,7 +3076,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.57m out of 219m repositories</span>
+                                    <span class="gh">ranked 3.57m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3114,7 +3114,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.03m out of 219m repositories</span>
+                                    <span class="gh">ranked 2.03m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -3196,7 +3196,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2024, 00:18:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2024, 01:19:33 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
