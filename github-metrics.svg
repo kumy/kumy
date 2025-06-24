@@ -478,31 +478,31 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#384d54" d="M0.5,-79.998A80,80,0,1,1,-61.059,51.69L0,0Z">
+                                    <path fill="#384d54" d="M0.5,-79.998A80,80,0,1,1,-61.129,51.607L0,0Z">
                                         <title>Dockerfile
-2.25</title>
+2.27</title>
                                     </path>
-                                    <path fill="#844FBA" d="M-61.7,50.923A80,80,0,0,1,-79.655,-7.425L0,0Z">
+                                    <path fill="#844FBA" d="M-61.769,50.839A80,80,0,0,1,-79.693,-7.004L0,0Z">
                                         <title>HCL
 0.44</title>
                                     </path>
-                                    <path fill="#00ADD8" d="M-79.556,-8.42A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#00ADD8" d="M-79.599,-8A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Go
-0.82</title>
+0.83</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(36.23634448060998,16.938929679367778)">
+                                    <text transform="translate(36.22484165521762,16.963515173878637)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
-                                        <tspan x="0" y="1.1em">2.25</tspan>
+                                        <tspan x="0" y="1.1em">2.27</tspan>
                                     </text>
-                                    <text transform="translate(-38.23082900520387,11.764510766490137)">
+                                    <text transform="translate(-38.207692963382016,11.839434041200118)">
                                         <tspan x="0" y="0em" font-weight="bold">HCL</tspan>
                                         <tspan x="0" y="1.1em">0.44</tspan>
                                     </text>
-                                    <text transform="translate(-26.847304722086598,-29.65168172565304)">
+                                    <text transform="translate(-26.92546006932735,-29.58073021504132)">
                                         <tspan x="0" y="0em" font-weight="bold">Go</tspan>
-                                        <tspan x="0" y="1.1em">0.82</tspan>
+                                        <tspan x="0" y="1.1em">0.83</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2025, 12:26:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2025, 13:20:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
