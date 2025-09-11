@@ -486,63 +486,63 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-41.949,-68.119L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-41.334,-68.494L0,0Z">
                                         <title>HTML
-71.34</title>
+70.97</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-41.095,-68.638A80,80,0,0,1,-37.062,-70.897L0,0Z">
+                                    <path fill="#c6538c" d="M-40.475,-69.006A80,80,0,0,1,-36.279,-71.301L0,0Z">
                                         <title>SCSS
-0.72</title>
+0.74</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-36.173,-71.355A80,80,0,0,1,-32.814,-72.96L0,0Z">
+                                    <path fill="#f0c040" d="M-35.385,-71.749A80,80,0,0,1,-31.926,-73.353L0,0Z">
                                         <title>Smarty
-0.58</title>
+0.59</title>
                                     </path>
-                                    <path fill="#878787" d="M-31.9,-73.365A80,80,0,0,1,-21.502,-77.056L0,0Z">
+                                    <path fill="#878787" d="M-31.007,-73.747A80,80,0,0,1,-20.492,-77.331L0,0Z">
                                         <title>Hack
 1.72</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-20.537,-77.319A80,80,0,0,1,-12.881,-78.956L0,0Z">
+                                    <path fill="#f1e05a" d="M-19.524,-77.581A80,80,0,0,1,-11.603,-79.154L0,0Z">
                                         <title>JavaScript
-1.22</title>
+1.25</title>
                                     </path>
-                                    <path fill="#00c0b5" d="M-11.893,-79.111A80,80,0,0,1,-7.433,-79.654L0,0Z">
+                                    <path fill="#00c0b5" d="M-10.613,-79.293A80,80,0,0,1,-7.53,-79.645L0,0Z">
                                         <title>RobotFramework
-0.70</title>
+0.48</title>
                                     </path>
-                                    <path fill="#663399" d="M-6.436,-79.741A80,80,0,0,1,-1.757,-79.981L0,0Z">
+                                    <path fill="#663399" d="M-6.534,-79.733A80,80,0,0,1,-1.694,-79.982L0,0Z">
                                         <title>CSS
-0.73</title>
+0.75</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-0.757,-79.996A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#4F5D95" d="M-0.694,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>PHP
-0.04</title>
+0.03</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(10.779503344382725,38.52015456418161)">
+                                    <text transform="translate(10.605945116948497,38.568302116845594)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">71.34</tspan>
+                                        <tspan x="0" y="1.1em">70.97</tspan>
                                     </text>
-                                    <text transform="translate(-19.547408947841205,-34.89840688951084)">
+                                    <text transform="translate(-19.19710624584408,-35.09232269009526)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-17.25153450521526,-36.0885654635283)">
+                                    <text transform="translate(-16.832618385577845,-36.285850662283046)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(-13.382236318305424,-37.69503616022973)">
+                                    <text transform="translate(-12.905954245450461,-37.86074939847783)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-8.3645238374826,-39.11565851385076)">
+                                    <text transform="translate(-7.7917510547747675,-39.23376881591184)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-4.833315620962856,-39.70691451256514)">
+                                    <text transform="translate(-4.5366235531694175,-39.74190542408389)">
                                         <tspan x="0" y="0em" font-weight="bold">RobotFramework</tspan>
                                     </text>
-                                    <text transform="translate(-2.0491364346245473,-39.94747851707657)">
+                                    <text transform="translate(-2.0579581528381503,-39.947025023663116)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-0.3141959674747655,-39.99876599214059)">
+                                    <text transform="translate(-0.29847379075794445,-39.99888640195162)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
                                 </g>
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2025, 06:26:04 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2025, 07:20:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
