@@ -482,42 +482,42 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-17.626,-78.034L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-17.572,-78.046L0,0Z">
                                         <title>HTML
-72.63</title>
+72.94</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-16.649,-78.248A80,80,0,0,1,-16.584,-78.262L0,0Z">
+                                    <path fill="#4F5D95" d="M-16.595,-78.26A80,80,0,0,1,-16.53,-78.274L0,0Z">
                                         <title>PHP
 0.01</title>
                                     </path>
-                                    <path fill="#f0c040" d="M-15.604,-78.463A80,80,0,0,1,-14.556,-78.665L0,0Z">
+                                    <path fill="#f0c040" d="M-15.551,-78.474A80,80,0,0,1,-14.507,-78.674L0,0Z">
                                         <title>Smarty
 0.16</title>
                                     </path>
-                                    <path fill="#878787" d="M-13.572,-78.84A80,80,0,0,1,-4.099,-79.895L0,0Z">
+                                    <path fill="#878787" d="M-13.522,-78.849A80,80,0,0,1,-4.088,-79.895L0,0Z">
                                         <title>Hack
 1.43</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-3.1,-79.94A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#c6538c" d="M-3.089,-79.94A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>SCSS
 0.39</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(4.3095400594983975,39.76717068733428)">
+                                    <text transform="translate(4.2958928207477385,39.76864725977799)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">72.63</tspan>
+                                        <tspan x="0" y="1.1em">72.94</tspan>
                                     </text>
-                                    <text transform="translate(-8.308240145196601,-39.12765193171887)">
+                                    <text transform="translate(-8.281450634742528,-39.1333307473862)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
-                                    <text transform="translate(-7.540340943524798,-39.28286214693888)">
+                                    <text transform="translate(-7.51459712565839,-39.287794924620634)">
                                         <tspan x="0" y="0em" font-weight="bold">Smarty</tspan>
                                     </text>
-                                    <text transform="translate(-4.425646979418801,-39.75441672083193)">
+                                    <text transform="translate(-4.410495821861613,-39.756100495462846)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
-                                    <text transform="translate(-0.9001698531014817,-39.9898698952068)">
+                                    <text transform="translate(-0.8974803386682867,-39.98993034554704)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
                                 </g>
@@ -2545,7 +2545,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Sept 2025, 06:26:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 07:21:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
