@@ -474,17 +474,17 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-35.064,-71.906L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-34.928,-71.973L0,0Z">
                                         <title>HTML
-92.49</title>
+92.52</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-34.162,-72.339A80,80,0,0,1,-30.104,-74.12L0,0Z">
+                                    <path fill="#4F5D95" d="M-34.025,-72.404A80,80,0,0,1,-29.964,-74.177L0,0Z">
                                         <title>PHP
 0.88</title>
                                     </path>
-                                    <path fill="#878787" d="M-29.175,-74.49A80,80,0,0,1,-26.008,-75.655L0,0Z">
+                                    <path fill="#878787" d="M-29.034,-74.545A80,80,0,0,1,-26.008,-75.655L0,0Z">
                                         <title>Hack
-0.67</title>
+0.64</title>
                                     </path>
                                     <path fill="#336790" d="M-25.06,-75.974A80,80,0,0,1,-22.173,-76.866L0,0Z">
                                         <title>PLpgSQL
@@ -516,14 +516,14 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(8.874549959019687,39.003107094497786)">
+                                    <text transform="translate(8.837711067513498,39.01147091673357)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">92.49</tspan>
+                                        <tspan x="0" y="1.1em">92.52</tspan>
                                     </text>
-                                    <text transform="translate(-16.072605378852764,-36.62883230920245)">
+                                    <text transform="translate(-16.003391450198478,-36.65912522267429)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
-                                    <text transform="translate(-13.79868056066333,-37.54459235076034)">
+                                    <text transform="translate(-13.763216909477906,-37.55760722280722)">
                                         <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
                                     <text transform="translate(-11.8102456929382,-38.21672535255257)">
@@ -2571,7 +2571,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2025, 06:26:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2025, 07:20:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
